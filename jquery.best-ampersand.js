@@ -6,4 +6,4 @@
 			$(this).text($(this).text().replace('&', '<span class="' + settings.class + '">&</span>'));
 		});
 	});
-});
+}) (jQuery);
