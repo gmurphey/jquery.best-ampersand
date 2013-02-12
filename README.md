@@ -1,6 +1,8 @@
 # jQuery Best Ampersand
 
-Adds ampersand classes for better ampersand fonts.
+Adds ampersand classes for better control of typefaces.
+
+[![Build Status](https://travis-ci.org/gmurphey/jQuery.Best-Ampersand.png)](https://travis-ci.org/gmurphey/jQuery.Best-Ampersand)
 
 ## Getting Started
 Download the [production version][min] or the [development version][max].
@@ -30,5 +32,5 @@ _Also, please don't edit files in the "dist" subdirectory as they are generated 
 - 0.1.0: Inital release.
 
 ## License
-Copyright (c) 2012 Garrett Murphey  
+Copyright (c) 2012 Garrett Murphey
 Licensed under the MIT, GPL licenses.
