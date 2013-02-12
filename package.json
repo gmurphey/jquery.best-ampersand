@@ -1,33 +1,13 @@
 {
-  "name": "jquery.best-ampersand",
-  "title": "jQuery Best Ampersand",
-  "description": "Adds ampersand classes for better ampersand fonts.",
-  "version": "0.1.0",
-  "homepage": "https://github.com/gmurphey/jQuery-Best-Ampersand",
-  "author": {
-    "name": "Garrett Murphey",
-    "email": "gmurphey@gmurphey.com",
-    "url": "http://gmurphey.com"
+  "name": "jquery-plugin",
+  "version": "0.0.0-ignored",
+  "engines": {
+    "node": ">= 0.6.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/gmurphey/jQuery-Best-Ampersand.git"
+  "scripts": {
+    "test": "grunt test"
   },
-  "bugs": {
-    "url": "https://github.com/gmurphey/jQuery-Best-Ampersand/issues"
-  },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/gmurphey/jQuery-Best-Ampersand/blob/master/LICENSE-MIT"
-    },
-    {
-      "type": "GPL",
-      "url": "https://github.com/gmurphey/jQuery-Best-Ampersand/blob/master/LICENSE-GPL"
-    }
-  ],
-  "dependencies": {
-    "jquery": "~1.5"
-  },
-  "keywords": ["ampersands", "typography"]
+  "devDependencies": {
+    "grunt": "~0.3.17"
+  }
 }
